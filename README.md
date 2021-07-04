@@ -7,8 +7,8 @@
 <h2>🔨 Tecnologias</h2>  
 <p>As seguintes ferramentas foram usadas na construção do projeto:</p>
 <ul>
-  <li><a href="">Pycoingecko</a></li>
-  <li><a href="">Prophet</a></li>
+  <li><a href="https://www.coingecko.com/en/api">Pycoingecko</a></li>
+  <li><a href="https://facebook.github.io/prophet/">Prophet</a></li>
   <li><a href="">Pandas</a></li>
   <li><a href="">Numpy</a></li>
   <li><a href="">Datetime</a></li>
