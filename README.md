@@ -9,10 +9,10 @@
 <ul>
   <li><a href="https://www.coingecko.com/en/api">Pycoingecko</a></li>
   <li><a href="https://facebook.github.io/prophet/">Prophet</a></li>
-  <li><a href="">Pandas</a></li>
-  <li><a href="">Numpy</a></li>
-  <li><a href="">Datetime</a></li>
-  <li><a href="">Matplotlib</a></li>
+  <li><a href="https://pandas.pydata.org/">Pandas</a></li>
+  <li><a href="https://numpy.org/">Numpy</a></li>
+  <li><a href="https://docs.python.org/3/library/datetime.html">Datetime</a></li>
+  <li><a href="https://matplotlib.org/">Matplotlib</a></li>
 </ul>
 
 <br>
