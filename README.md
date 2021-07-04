@@ -45,4 +45,4 @@
     >>> cp.prophet(mcap=True)
     '''
     
-![alt text](https://github.com/lucasdmarten/CoinPrediction/blob/master/bitcoin.png)
+![alt text](https://github.com/lucasdmarten/CoinPredict/blob/master/bitcoin.png)
